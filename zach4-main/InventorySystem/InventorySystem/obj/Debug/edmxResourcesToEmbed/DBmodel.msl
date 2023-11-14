@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="inventorydbModelStoreContainer" CdmEntityContainer="inventorydbEntities">
+    <EntitySetMapping Name="Framesets">
+      <EntityTypeMapping TypeName="inventorydbModel.Frameset">
+        <MappingFragment StoreEntitySet="Frameset">
+          <ScalarProperty Name="frameQuantity" ColumnName="frameQuantity" />
+          <ScalarProperty Name="framePrice" ColumnName="framePrice" />
+          <ScalarProperty Name="frameType" ColumnName="frameType" />
+          <ScalarProperty Name="frameName" ColumnName="frameName" />
+          <ScalarProperty Name="frameId" ColumnName="frameId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

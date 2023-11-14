@@ -24,3 +24,6 @@ C:\Users\PC\Downloads\zach4-main\InventorySystem\InventorySystem\obj\Debug\Inven
 C:\Users\PC\Downloads\zach4-main\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb
 C:\Users\PC\Downloads\zach4-main\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmClient.resources
 C:\Users\PC\Downloads\zach4-main\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmEmployee.resources
+C:\Users\Enrique\OneDrive\Desktop\zach4-main\zach4-main\zach4-main\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.AssemblyReference.cache
+C:\Users\Enrique\OneDrive\Desktop\zach4-main\zach4-main\zach4-main\InventorySystem\InventorySystem\obj\Debug\InventorySystem.exe
+C:\Users\Enrique\OneDrive\Desktop\zach4-main\zach4-main\zach4-main\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb
