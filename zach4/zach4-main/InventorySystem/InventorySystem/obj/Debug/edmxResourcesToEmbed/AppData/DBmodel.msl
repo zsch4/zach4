@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="InventoryDbModelStoreContainer" CdmEntityContainer="InventoryDbEntities">
+    <EntitySetMapping Name="Frameset">
+      <EntityTypeMapping TypeName="InventoryDbModel.Frameset">
+        <MappingFragment StoreEntitySet="Frameset">
+          <ScalarProperty Name="frameId" ColumnName="frameId" />
+          <ScalarProperty Name="frameName" ColumnName="frameName" />
+          <ScalarProperty Name="frameType" ColumnName="frameType" />
+          <ScalarProperty Name="framePrice" ColumnName="framePrice" />
+          <ScalarProperty Name="frameQuantity" ColumnName="frameQuantity" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserAccount">
+      <EntityTypeMapping TypeName="InventoryDbModel.UserAccount">
+        <MappingFragment StoreEntitySet="UserAccount">
+          <ScalarProperty Name="userId" ColumnName="userId" />
+          <ScalarProperty Name="userfirstname" ColumnName="userfirstname" />
+          <ScalarProperty Name="userlastname" ColumnName="userlastname" />
+          <ScalarProperty Name="userName" ColumnName="userName" />
+          <ScalarProperty Name="userPass" ColumnName="userPass" />
+          <ScalarProperty Name="roleId" ColumnName="roleId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
