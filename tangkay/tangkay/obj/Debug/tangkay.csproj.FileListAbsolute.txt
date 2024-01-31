@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\tangkay\tangkay\bin\Debug\tangkay.exe.config
+C:\Users\Admin\source\repos\tangkay\tangkay\bin\Debug\tangkay.exe
+C:\Users\Admin\source\repos\tangkay\tangkay\bin\Debug\tangkay.pdb
+C:\Users\Admin\source\repos\tangkay\tangkay\obj\Debug\tangkay.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\tangkay\tangkay\obj\Debug\tangkay.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\tangkay\tangkay\obj\Debug\tangkay.Form1.resources
+C:\Users\Admin\source\repos\tangkay\tangkay\obj\Debug\tangkay.Properties.Resources.resources
+C:\Users\Admin\source\repos\tangkay\tangkay\obj\Debug\tangkay.registration.resources
+C:\Users\Admin\source\repos\tangkay\tangkay\obj\Debug\tangkay.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\tangkay\tangkay\obj\Debug\tangkay.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\tangkay\tangkay\obj\Debug\tangkay.exe
+C:\Users\Admin\source\repos\tangkay\tangkay\obj\Debug\tangkay.pdb
+C:\Users\Admin\source\repos\tangkay\tangkay\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\tangkay\tangkay\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\tangkay\tangkay\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\tangkay\tangkay\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\tangkay\tangkay\obj\Debug\tangkay.csproj.CopyComplete

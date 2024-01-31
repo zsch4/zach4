@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="sysdbModelStoreContainer" CdmEntityContainer="sysdbEntities">
+    <EntitySetMapping Name="UserAccount">
+      <EntityTypeMapping TypeName="sysdbModel.UserAccount">
+        <MappingFragment StoreEntitySet="UserAccount">
+          <ScalarProperty Name="userId" ColumnName="userId" />
+          <ScalarProperty Name="userfirstname" ColumnName="userfirstname" />
+          <ScalarProperty Name="userlastname" ColumnName="userlastname" />
+          <ScalarProperty Name="userName" ColumnName="userName" />
+          <ScalarProperty Name="userPass" ColumnName="userPass" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
